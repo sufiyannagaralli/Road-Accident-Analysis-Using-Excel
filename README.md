@@ -12,7 +12,6 @@ The main objective of this project is to analyze road accident data to gain acti
 - Relationship between casualties by area/location and by day/night.**
 
 **Approach Used**
-Here’s a revised version of your sentences:
 - Imported data into Excel and performed data cleaning using Power Query.
 - Applied data processing, formulas, and created new columns.
 - Created pivot tables and built charts from them.
